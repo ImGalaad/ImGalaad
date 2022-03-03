@@ -23,6 +23,12 @@
 <h2 align="center">👨🏻‍💻 Code</h2>
 
 ```js
+// This part is under a code presentation,
+// for people for whom the readability is
+// not satisfactory, the "bagdes" if below
+// are there to illustrate more clearly the
+// content.
+
 var skills = [
   'js-15%',
   'css-40%',
@@ -41,7 +47,8 @@ var skills = [
 <br>
 
 ```js
-var plan-for-the-future = [   //When I'm a real (pro) developer
+// When I'm a real (pro) developer
+var plan-for-the-future = [
   'c#',
   'go',
   'php',
