@@ -1,0 +1,24 @@
+{
+	"name": "theme-galaad-dark",
+	"displayName": "Galaad's Dark Theme",
+	"description": "A simple dark theme",
+	"version": "1.0.0",
+	"publisher": "Galaad",
+	"repository": "https://github.com/ImGalaad/ImGalaad/.vscode",
+	"icon": "logo.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Galaad Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/galaad's-dark-theme.json"
+			}
+		]
+	}
+}
