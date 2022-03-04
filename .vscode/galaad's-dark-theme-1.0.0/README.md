@@ -1,4 +1,6 @@
+## Theme Illustration
 
+![Theme Illustration](https://github.com/ImGalaad/ImGalaad/blob/main/.vscode/galaad's-dark-theme-1.0.0/theme-illustration.png)
 
 ## Color Palette
 
