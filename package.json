@@ -1,0 +1,25 @@
+{
+  "name": "ImGalaad",
+  "version": "1.0.0",
+  "description": "A dynamic README.md with JS and Mustache",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImGalaad/ImGalaad.git"
+  },
+  "author": "Galaad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImGalaad/ImGalaad/issues"
+  },
+  "homepage": "https://github.com/ImGalaad/ImGalaad#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^5.1.0"
+  }
+}
