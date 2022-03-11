@@ -1,7 +1,7 @@
 <h2 align="center">Hi !</h2>
 
 <p align="center">
-  I'm a french boy who started coding in 2021 and I started with the front-end, and I'm starting to learn the back-end to improve the functionality of my sites. I adore the computers science and the web. In my free time I enjoy playing video games, make calculators in Minecraft (with all logic gates) and do some sports. I'm free to do projects that will make me learn new things and advance me in the world of code.<br>Currently, the weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b></br>Today, the sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.
+  I am a French boy learning full-stack. I enjoy coding and computer science. I'm looking to join some projects that will make me grow in the code domain.
 </p>
 
 <hr>
@@ -120,4 +120,3 @@ interests = [
   ⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️⬜️⬜️⬛️⬛️
   ⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️⬜️⬛️
   ```
-<p align="center">This README is generated every 3 hours !</br>Last refresh: {{refresh_date}}<br/></p>
