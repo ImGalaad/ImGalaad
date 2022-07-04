@@ -15,15 +15,25 @@
 class Galaad:
 
     def __init__(self):
+    
         self.username = 'imgalaad'
         self.name = 'Galaad'
         self.web = 'imgalaad.github.io/home'
         self.instagram = '@iamgalaad'
         self.discord = 'Galaad#0252'
+        
         self.code = {
             'what_i_code': ['Python', 'HTML', 'CSS', 'JavaScript'],
             'tools': ['GitHub', 'Aseprite', 'Canva', 'Visual Studio Code', 'Linux (Ubuntu)'],
+            
+            'what_i_want_to_learn': {
+                'frontEnd': ['Cfml','TypeScript','PureScript'],
+                'backEnd': ['C#','Go','Java','PHP','Ruby','SQL'],
+                'game': ['C++','Lua'],
+                'security': ['PowerShell','Haskell','Shell']
+            }
         }
+        
         self.interests = {
             '🎶 music' : ['🎹 piano', '🎸 guitar', '🎻 classic', '👩‍🎤 rock'],
             '🔭 sciences' : ['➕ math', '🪃 physic', '🧪 chemistry'],
@@ -32,7 +42,7 @@ class Galaad:
             # I love create calculators in Minecraft
             'others' : ['🐈 cats', '🚴 biking & running']
         }
-
+        
     def __str__(self):
         return self.name
 
